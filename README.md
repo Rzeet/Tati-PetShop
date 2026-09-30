@@ -697,8 +697,8 @@ A primeira entrega transformou o cenário do Tati Peti Shop — cadastros disper
 | Atributos de relacionamentos analisados (seção 14) | ☑ |
 | Dicionário conceitual elaborado (seção 15) | ☑ |
 | DER coerente com regras, integrado e preparado para evolução (seções 16 e 17) | ☑ |
-| README organizado e DER anexado ao repositório | ☐ conferir após o envio ao GitHub |
-| Todos os integrantes contribuíram para o projeto | ☐ conferir no histórico de commits |
+| README organizado e DER anexado ao repositório | ☑  |
+| Todos os integrantes contribuíram para o projeto | ☑ |
 
 ---
 
