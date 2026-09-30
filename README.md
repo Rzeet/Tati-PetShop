@@ -711,3 +711,8 @@ A primeira entrega transformou o cenário do Tati Peti Shop — cadastros disper
     ├── der_conceitual.png
     └── der_conceitual.svg
 ```
+
+### Fontes Usadas
+• Manual da Primeira Entrega - Projeto Integrador de Modelagem de Dados: do problema real ao Modelo Conceitual de Dados, disponibilizado pela disciplina.
+
+• Aula 4 - Do mundo real ao DER: como representar as regras de um negócio, disponibilizada pela disciplina.
